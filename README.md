@@ -1,4 +1,4 @@
-![Banner](https://github.com/PaylemanC/PaylemanC/blob/main/1.png)
+![Banner](https://github.com/PaylemanC/PaylemanC/blob/main/assets/Banner.png)
 <h1 align="center"> Hello world, I'm PaylemanC :woman_technologist::wave: </h1>
 
 <!--
