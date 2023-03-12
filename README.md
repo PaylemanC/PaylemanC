@@ -1,6 +1,7 @@
 ![Banner](https://github.com/PaylemanC/PaylemanC/blob/main/assets/Banner.png)
 <h1 align="center"> Hello world, I'm PaylemanC :woman_technologist::wave: </h1>
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
 <!--
 **PaylemanC/PaylemanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
