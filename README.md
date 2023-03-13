@@ -15,6 +15,16 @@ I also read and practice a lot about web accesibility: I understand assistive te
 
 I would like to learn Mobile App Development on the near future (React Native maybe?) :iphone:
 
+```
+if(brain!=empty) {
+  keepCoding();
+} else {
+  playChillMusic();
+  drinkCoffe();
+  keepCoding();
+}
+```
+
 If I'm not studying or doing a project, I'm reading a thriller e-book (with detectives writted by Arthur Conan Doyle or suspense crimes by John Katzenbach), or playing mobile MOBAs, or losing my shit due to awesome fanarts and UI desings & website ideas on Instagram, Twitter and Pinterest.
 
 Between my hobbies and profession, I like to listening to playlists with the pomodoro study technique where there's calm piano & jazz and charming landscapes on background, on YouTube.
@@ -22,6 +32,9 @@ Between my hobbies and profession, I like to listening to playlists with the pom
 I'm always learning and teaching. Let's get in touch! 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
+
+> "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.” Tim Berners-Lee
+
 <!--
 **PaylemanC/PaylemanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
