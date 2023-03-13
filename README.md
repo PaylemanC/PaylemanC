@@ -7,6 +7,13 @@
 * :two::one: I'm 21 years old. 
 * :heartpulse: Studying & Website Development are my greatest passions :computer:	:books:
 
+I study all the time about technologies, design patterns, software architecture, algorithms, soft-skills, UX/UI design, web accesibility, frameworks & libraries, complementary tools such as Git and GitHub, and more. I'm mostly a self-taught, formally I study the Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (Web Development and Digital Applications) at the Instituto Superior Politécnico de Córdoba (a higher education institute, 3 years).
+
+My currently obsession is JavaScript :yellow_heart: So I'm learning Node and React in order to reach the MERN stack, but I also study Python for Data Science, Java to understanding OOP, and Angular as an alternative to React. 
+
+I also read and practice a lot about web accesibility: I understand assistive technologies like screen readers, semantic HTML and aria-labels, manage Chrome Devtools and Lighthouse to testing, etc.  And UX/UI desing: I use Figma for user interface design and app prototypes, manage terminology of design area, apply Gestalt principles and laws of UX to projects, etc.
+
+I would like to learn Mobile App Development on the near future (React Native maybe?) :iphone:
 
 
 
