@@ -7,6 +7,9 @@
 * :two::one: I'm 21 years old. 
 * :heartpulse: Studying & Website Development are my greatest passions :computer:	:books:
 
+
+## :dart: Focus...
+
 I study all the time about technologies, design patterns, software architecture, algorithms, soft-skills, UX/UI design, web accesibility, frameworks & libraries, complementary tools such as Git and GitHub, and more. I'm mostly a self-taught, formally I study the Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (Web Development and Digital Applications) at the Instituto Superior Politécnico de Córdoba (a higher education institute, 3 years).
 
 My currently obsession is JavaScript :yellow_heart: So I'm learning Node and React in order to reach the MERN stack, but I also study Python for Data Science, Java to understanding OOP, and Angular as an alternative to React. 
@@ -24,6 +27,7 @@ if(brain!=empty) {
   keepCoding();
 }
 ```
+## :video_game: Hobbies...
 
 If I'm not studying or doing a project, I'm reading a thriller e-book (with detectives writted by Arthur Conan Doyle or suspense crimes by John Katzenbach), or playing mobile MOBAs, or losing my shit due to awesome fanarts and UI desings & website ideas on Instagram, Twitter and Pinterest.
 
