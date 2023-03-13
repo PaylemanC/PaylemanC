@@ -19,6 +19,8 @@ If I'm not studying or doing a project, I'm reading a thriller e-book (with dete
 
 Between my hobbies and profession, I like to listening to playlists with the pomodoro study technique where there's calm piano & jazz and charming landscapes on background, on YouTube.
 
+I'm always learning and teaching. Let's get in touch! 
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
 <!--
 **PaylemanC/PaylemanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
