@@ -1,13 +1,17 @@
 ![Banner](https://github.com/PaylemanC/PaylemanC/blob/main/assets/Banner.png)
 <h1 align="center"> Hello world, I'm PaylemanC :woman_technologist: </h1>
 
-* :blush: My name is Carina, but my programmer username is PaylemanC. Nice to meet you, thanks for reading :wave:
-* :woman_technologist: I'm Full Stack Developer Jr.
-* :argentina: I'm from Córdoba, Argentina. Vivo tomando mate :mate:
-* :stuck_out_tongue_closed_eyes: I'm a native speaker of Spanish but I speak fluent English. I'm English teacher too! :woman_teacher:
-* :two::one: I'm 21 years old. 
-* :heartpulse: Studying & Website Development are my greatest passions :computer:	:books:
+### :blush: My name is Carina, but my programmer username is PaylemanC. Nice to meet you, thanks for reading :wave:
+### :woman_technologist: I'm Full Stack Developer Jr.
+### :argentina: I'm from Córdoba, Argentina. Vivo tomando mate :mate:
+### :stuck_out_tongue_closed_eyes: I'm a native speaker of Spanish but I speak fluent English. I'm English teacher too! :woman_teacher:
+### :two::one: I'm 21 years old. 
+### :heartpulse: Studying & Website Development are my greatest passions :computer::books:
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
+
+
+---
 
 ## :dart: Focus...
 
@@ -33,10 +37,6 @@ if(brain!=empty) {
 If I'm not studying or doing a project, I'm reading a thriller e-book (with detectives writted by Arthur Conan Doyle or suspense crimes by John Katzenbach), or playing mobile MOBAs, or losing my shit due to AWESOME fanarts and UI desings & website ideas on Instagram, Twitter and Pinterest.
 
 Between my hobbies and profession, I like to listening to playlists with the pomodoro study technique where there's calm piano & jazz and charming landscapes on background, on YouTube.
-
-I'm always learning and teaching. Let's get in touch! 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
 
 > "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.” Tim Berners-Lee
 
