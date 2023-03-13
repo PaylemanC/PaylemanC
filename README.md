@@ -30,7 +30,7 @@ if(brain!=empty) {
 ```
 ## :video_game: Hobbies...
 
-If I'm not studying or doing a project, I'm reading a thriller e-book (with detectives writted by Arthur Conan Doyle or suspense crimes by John Katzenbach), or playing mobile MOBAs, or losing my shit due to awesome fanarts and UI desings & website ideas on Instagram, Twitter and Pinterest.
+If I'm not studying or doing a project, I'm reading a thriller e-book (with detectives writted by Arthur Conan Doyle or suspense crimes by John Katzenbach), or playing mobile MOBAs, or losing my shit due to AWESOME fanarts and UI desings & website ideas on Instagram, Twitter and Pinterest.
 
 Between my hobbies and profession, I like to listening to playlists with the pomodoro study technique where there's calm piano & jazz and charming landscapes on background, on YouTube.
 
