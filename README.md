@@ -1,10 +1,10 @@
 ![Banner](https://github.com/PaylemanC/PaylemanC/blob/main/assets/Banner.png)
 <h1 align="center"> Hello world, I'm PaylemanC :woman_technologist: </h1>
 
-### :blush: My name is Carina, but my programmer username is PaylemanC. Nice to meet you, thanks for reading :wave:
+### :blush: My name is Carina. Nice to meet you :wave:
 ### :woman_technologist: I'm Full Stack Developer Jr.
 ### :argentina: I'm from Córdoba, Argentina. Vivo tomando mate :mate:
-### :stuck_out_tongue_closed_eyes: I'm a native speaker of Spanish but I speak fluent English. I'm English teacher too! :woman_teacher:
+### :stuck_out_tongue_closed_eyes: I'm a native speaker of Spanish but I speak fluent English.
 ### :two::one: I'm 21 years old. 
 ### :heartpulse: Studying & Website Development are my greatest passions :computer::books:
 
