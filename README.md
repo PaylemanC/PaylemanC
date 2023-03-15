@@ -27,16 +27,10 @@ I would like to learn Mobile App Development on the near future (React Native ma
 if(brain!=empty) {
   keepCoding();
 } else {
-  playChillMusic();
   drinkCoffe();
   keepCoding();
 }
 ```
-## :video_game: Hobbies...
-
-If I'm not studying or doing a project, I'm reading a thriller e-book (with detectives writted by Arthur Conan Doyle or suspense crimes by John Katzenbach), or playing mobile MOBAs, or losing my shit due to AWESOME fanarts and UI desings & website ideas on Instagram, Twitter and Pinterest.
-
-Between my hobbies and profession, I like to listening to playlists with the pomodoro study technique where there's calm piano & jazz and charming landscapes on background, on YouTube.
 
 > "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.” Tim Berners-Lee
 
