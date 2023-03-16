@@ -12,7 +12,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
-## :dart: Focus...
+<!-- ## :dart: Focus...
 
 I study all the time about technologies, design patterns, software architecture, algorithms, soft-skills, UX/UI design, web accesibility, frameworks & libraries, complementary tools such as Git and GitHub, and more. I'm mostly a self-taught, formally I study the Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (Web Development and Digital Applications) at the Instituto Superior Politécnico de Córdoba (a higher education institute, 3 years).
 
@@ -20,7 +20,7 @@ My currently obsession is JavaScript :yellow_heart: So I'm learning Node and Rea
 
 I also read and practice a lot about web accesibility: I understand assistive technologies like screen readers, semantic HTML and aria-labels, manage Chrome Devtools and Lighthouse to testing, etc.  And UX/UI desing: I use Figma for user interface design and app prototypes, manage terminology of design area, apply Gestalt principles and laws of UX to projects, etc.
 
-I would like to learn Mobile App Development on the near future (React Native maybe?) :iphone:
+I would like to learn Mobile App Development on the near future (React Native maybe?) :iphone: -->
 
 ```
 if(brain!=empty) {
@@ -34,7 +34,6 @@ if(brain!=empty) {
 > "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.” Tim Berners-Lee
 
 <!--
-**PaylemanC/PaylemanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
