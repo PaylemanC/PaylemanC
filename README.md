@@ -31,8 +31,6 @@ if(brain!=empty) {
 }
 ```
 
-> "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.” Tim Berners-Lee
-
 <!--
 
 Here are some ideas to get you started:
