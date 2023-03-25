@@ -22,8 +22,8 @@ I also read and practice a lot about web accesibility: I understand assistive te
 
 I would like to learn Mobile App Development on the near future (React Native maybe?) :iphone: -->
 
-```
-if(brain!=empty) {
+```js
+if (brain!=empty) {
   keepCoding();
 } else {
   drinkCoffe();
