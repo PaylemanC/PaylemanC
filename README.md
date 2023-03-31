@@ -1,5 +1,5 @@
 ![Banner](https://github.com/PaylemanC/PaylemanC/blob/main/assets/Banner.png)
-<h1 align="center"> Hello world, I'm PaylemanC :woman_technologist: </h1>
+ㅤ<h1 align="center"> `console.log('Hello world, I'm PaylemanC')` :woman_technologist: </h1>
 
 ### :blush: My name is Carina. Nice to meet you :wave:
 ### :woman_technologist: I'm Full Stack Developer Jr.
@@ -10,7 +10,16 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+```js
+if (brain!=empty) {
+  keepCoding();
+} else {
+  drinkCoffe();
+  keepCoding();
+}
+```
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ## :dart: Focus...
 
@@ -21,15 +30,6 @@ My currently obsession is JavaScript :yellow_heart: So I'm learning Node and Rea
 I also read and practice a lot about web accesibility: I understand assistive technologies like screen readers, semantic HTML and aria-labels, manage Chrome Devtools and Lighthouse to testing, etc.  And UX/UI desing: I use Figma for user interface design and app prototypes, manage terminology of design area, apply Gestalt principles and laws of UX to projects, etc.
 
 I would like to learn Mobile App Development on the near future (React Native maybe?) :iphone: -->
-
-```js
-if (brain!=empty) {
-  keepCoding();
-} else {
-  drinkCoffe();
-  keepCoding();
-}
-```
 
 <!--
 
