@@ -23,6 +23,10 @@
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=B66ECA&logo=Figma&logoColor=FFFFFF&label=)
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
+
 ```js
 if (brain!=empty) {
   keepCoding();
@@ -31,10 +35,6 @@ if (brain!=empty) {
   keepCoding();
 }
 ```
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
-
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ## :dart: Focus...
 
