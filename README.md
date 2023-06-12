@@ -16,9 +16,7 @@
 |----------|
 | ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=B66ECA&logo=Figma&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-rocio-payleman/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)
 
 ```js
 if (brain!=empty) {
