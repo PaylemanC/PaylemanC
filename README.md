@@ -18,13 +18,26 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaylemanC&layout=compact&theme=radical)
 
-```js
+<!-- ```js
 if (brain!=empty) {
   keepCoding();
 } else {
   drinkCoffe();
   keepCoding();
 }
+``` 
+ ```py
+coding = keep_coding if brain != empty else (lambda: (drink_coffee(), keep_coding())) 
+coding()
+ ```
+-->
+
+ ```py
+if brain != empty:
+  keep_coding()
+else:
+  drink_coffe()
+  keep_coding()
 ```
 
 <!-- ## :dart: Focus...
