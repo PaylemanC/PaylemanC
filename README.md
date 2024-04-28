@@ -2,6 +2,9 @@
 ㅤ<h1 align="center"> `console.log('Hello world, I'm PaylemanC')` :woman_technologist:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <div align="center">
     <a href="https://www.linkedin.com/in/carina-rocio-payleman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+     <a href="https://carina-payleman.netlify.app/" target="_blank" -->
+         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio+Web&color=ffb893&logo=Portfolio+Web&logoColor=3DDC84&label=" alt="Portfolio Web"/>
+     </a> 
 </div>
 
 ---
