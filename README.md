@@ -9,10 +9,10 @@
 
 ---
 
-### :blush: My name is Carina. Nice to meet you :wave:
+### :blush: My name is Carina. Pleased to meet you :wave:
 ### :woman_technologist: I'm Full Stack Developer Jr.
-### :argentina: I'm from Córdoba, Argentina. Vivo tomando mate :mate:
-### :stuck_out_tongue_closed_eyes: I speak fluent English.
+### :argentina: I'm from Córdoba, Argentina.
+### :stuck_out_tongue_closed_eyes: I'm fluent in English.
 ### :two::three: I'm 23 years old. 
 ### :heartpulse: Studying & Web Development are my greatest passions :computer::books:
 ### :robot: I'm also studying Data Science & AI.
